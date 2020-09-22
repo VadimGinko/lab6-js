@@ -1,0 +1,16 @@
+{
+  "name": "labb6",
+  "version": "1.0.4",
+  "description": "",
+  "main": "m0603.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemailer": "^6.4.11"
+  }
+}
